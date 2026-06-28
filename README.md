@@ -40,6 +40,10 @@ This dashboard addresses that challenge by presenting historical data in a simpl
 - Investment growth projection
 - Interactive filters for better exploration
 
+## Dashboard Preview
+
+![Dashboard Preview]()
+
 ---------------------------------------------------------------------------------------------------------------------------
 
 ## Key Insights
