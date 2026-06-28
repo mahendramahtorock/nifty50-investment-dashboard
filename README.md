@@ -42,7 +42,7 @@ This dashboard addresses that challenge by presenting historical data in a simpl
 
 ## Dashboard Preview
 
-![Dashboard Preview]()
+![Dashboard Preview](Screenshot 2026-06-28 212536.png)
 
 ---------------------------------------------------------------------------------------------------------------------------
 
