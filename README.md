@@ -1,4 +1,4 @@
-# 📈 Nifty 50 Investment Dashboard
+# Nifty 50 Investment Dashboard
 
 An interactive Excel dashboard built using 20 years of historical Nifty 50 stock data. The goal of this project is to help retail investors compare stocks, understand risk, and make more informed long-term investment decisions through data rather than emotions.
 
@@ -42,7 +42,7 @@ This dashboard addresses that challenge by presenting historical data in a simpl
 
 ## Dashboard Preview
 
-![Dashboard Preview](Screenshot 2026-06-28 212536.png)
+![Dashboard Preview]([Screenshot 2026-06-28 212536.png](https://github.com/mahendramahtorock/nifty50-investment-dashboard/blob/0c7d50f913c8aac37fc3b9bbad1ea27042ac7114/Screenshot%202026-06-28%20212536.png))
 
 ---------------------------------------------------------------------------------------------------------------------------
 
@@ -74,7 +74,7 @@ This dashboard helps retail investors move beyond guesswork by providing a simpl
 ## Project Structure
 
 
-📁 Nifty50-Investment-Dashboard
+Nifty50-Investment-Dashboard
 │── Dashboard.xlsx
 │── Nifty50_20_years_of_data.xlsx
 │── README.md
@@ -88,7 +88,7 @@ This dashboard helps retail investors move beyond guesswork by providing a simpl
 
 MBA (Information Technology & Finance)
 
-Aspiring Data Analyst
+Data Analyst
 
 ---------------------------------------------------------------------------------------------------------------------------
 
