@@ -42,7 +42,7 @@ This dashboard addresses that challenge by presenting historical data in a simpl
 
 ## Dashboard Preview
 
-![image alt](https://github.com/mahendramahtorock/nifty50-investment-dashboard/blob/0c7d50f913c8aac37fc3b9bbad1ea27042ac7114/Screenshot%202026-06-28%20212536.png))
+![image alt](https://github.com/mahendramahtorock/nifty50-investment-dashboard/blob/0c7d50f913c8aac37fc3b9bbad1ea27042ac7114/Screenshot%202026-06-28%20212536.png)
 
 ---------------------------------------------------------------------------------------------------------------------------
 
